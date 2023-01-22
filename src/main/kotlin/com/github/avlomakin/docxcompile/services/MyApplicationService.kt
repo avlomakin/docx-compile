@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.avlomakin.docxcompile.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.avlomakin.docxcompile.MyBundle
 
 class MyApplicationService {
 
